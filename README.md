@@ -31,11 +31,10 @@ print("Hello World")
 
 ---
 
-## Link<img width="4032" height="3024" alt="githubimage" src="https://github.com/user-attachments/assets/57b82454-34be-449f-ad0e-5136bd12e873" />
 
 
 [Stevens Institute of Technology](https://www.stevens.edu/)
 
 ## Image
 
-![Stevens Institute of Technology](https://upload.wikimedia.org/wikipedia/commons/2/22/Stevens_Institute_of_Technology_logo.svg)ady set up correctly; you just need to fill the README, commit it, and submit the main repo link.
+## Link<img width="4032" height="3024" alt="githubimage" src="https://github.com/user-attachments/assets/57b82454-34be-449f-ad0e-5136bd12e873" />
