@@ -31,10 +31,10 @@ print("Hello World")
 
 ---
 
-
+## Link
 
 [Stevens Institute of Technology](https://www.stevens.edu/)
 
 ## Image
 
-## Link<img width="4032" height="3024" alt="githubimage" src="https://github.com/user-attachments/assets/57b82454-34be-449f-ad0e-5136bd12e873" />
+<img width="4032" height="3024" alt="githubimage" src="https://github.com/user-attachments/assets/57b82454-34be-449f-ad0e-5136bd12e873" />
